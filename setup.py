@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="rasa-chinese-plus",
-    version="0.0.1a1",
+    version="0.0.2",
     author="yizheng dai",
     author_email="387942239@qq.com",
     description="A Chinese extension package for Rasa",
