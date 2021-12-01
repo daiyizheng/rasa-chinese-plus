@@ -1,6 +1,10 @@
 # rasa-chinese-plus
 rasa-chinese-plus 是专门针对中文语言的 rasa 组件扩展包。
 
+## 安装依赖
+```python
+pip install rasa-chinese-plu
+```
 ## NLU组件
 ### BertTokenizer
 **参数**
